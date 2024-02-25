@@ -9,7 +9,6 @@ namespace TestLibrary1
         [TestInitialize]
         public void Setup()
         {
-            // Initialize the SortByPrice object before each test
             sortByPrice = new SortByPrice();
         }
 
